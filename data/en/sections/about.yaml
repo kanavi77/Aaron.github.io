@@ -11,7 +11,7 @@ section:
 designation: Master Student
 # your company information
 company:
-  name: National University of Singapore (NUS)
+  name: National University of Singapore
   url: "https://nus.edu.sg"
 
 # your resume. this file path should be relative to you "static" directory
@@ -28,6 +28,10 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "JIAHAO.HUANG0210@gmail.com"
 
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/aaron0210/"
+
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/kanavi77"
@@ -36,9 +40,6 @@ socialLinks:
 #   icon: "fab fa-stack-overflow"
 #   url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/aaron0210/"
 
 # - name: Twitter
 #   icon: "fab fa-twitter"
