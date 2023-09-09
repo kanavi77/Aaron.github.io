@@ -8,7 +8,7 @@ image: "images/author/john.png"
 contactInfo:
   email: "jiahao.huang0210@gmail.com"
   phone: "+65 88854326"
-  github: https://github.com/kanavi77
+  github: "https://github.com/kanavi77"
   linkedin: linkedin.com/in/Aaron0210/
 
 # some summary about what you do
