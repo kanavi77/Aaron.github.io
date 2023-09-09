@@ -30,7 +30,7 @@ degrees:
     scale: WAM
     achieved: 91.06
     outOf: 100
-  grade: #(optional)
+  rank: #(optional)
     scale: Rank
     achieved: 3
     outOf: 133
